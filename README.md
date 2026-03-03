@@ -1,2 +1,2 @@
-# SQL_Practice_LeetCode
+# SQL_LeetCode
 practicing leetcode sql 
