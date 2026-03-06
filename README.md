@@ -10,7 +10,7 @@ Logic & Threshold Management: Utilizing WHERE, AND, OR, and comparison operators
 
 Handling NULLs: Writing robust queries that account for missing data using IS NULL logic—a critical skill for accurate financial auditing. 
 
-Output Optimization: Using AS (Aliasing) to ensure report headers are professional and readable for non-technical stakeholders. 
+Output Optimization: Using AS (Alias) to ensure report headers are professional and readable for non-technical stakeholders. 
 
 About Me 
 
