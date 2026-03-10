@@ -20,7 +20,7 @@ Each script is designed to solve a specific business requirement.
 
 | :--- | :--- | :--- | 
 
-| 1757 | [Recyclable and Low Fat Products](1757_Recyclable_and_Low_Fat_Products.sql) | Multi-column Boolean filtering | 
+| 1148 | [Article_Views](1148_Article_Views_I.sql) | Multi-column Boolean filtering | 
 
 | 584 | [Find Customer Referee](584_Find_Customer_Referee.sql) | Handling NULL values in logic gates | 
 
