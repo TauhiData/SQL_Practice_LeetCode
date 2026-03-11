@@ -28,7 +28,7 @@ Each script is designed to solve a specific business requirement.
 
 | 1683 | [Invalid Tweets](1683_Invalid_Tweets.sql) | Data Validation via `CHAR_LENGTH()` | 
 
-| 1378 | [Replace employee ID]()
+| 1378 | [Replace employee ID](13778_Replace_Employee_Id.sql) | Basic `Left join` |
  
 
 
