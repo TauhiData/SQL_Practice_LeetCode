@@ -1,4 +1,6 @@
 Question:
+ Table: Sales 
+
 +-------------+-------+
 | Column Name | Type  |
 +-------------+-------+
