@@ -28,10 +28,12 @@ Each script is designed to solve a specific business requirement.
 
 | 1683 | [Invalid Tweets](1683_Invalid_Tweets.sql) | Data Validation via `CHAR_LENGTH()` | 
 
-| 1378 | [Replace employee ID](13778_Replace_Employee_Id.sql) | Basic `Left join` |
- 
+| 1378 | [Replace employee ID](13778_Replace_Employee_Id.sql) | Basic `LEFT JOIN` |
+
+| 1068 | [Product Sales Analysis I](1068_Product_Sales_Analysis_I.sql) | basic `GROUP BY` &  `LEFT JOIN` |
+
 
 
 About Me 
 
-I am an aspiring Data Analyst with a background in Economics and Business. I bridge the gap between technical SQL execution and business strategy. My experience in high-responsibility retail environments has built a foundation of meticulous record-keeping and attention to detail, which I now apply to database management. 
+I am an aspiring Data Analyst with a background in Economics and Business. I bridge the gap between technical SQL execution and business strategy. My experience in high-responsibility retail environments has built a foundation of meticulous record-keeping and attention to detail, which I now apply to database analytics. 
