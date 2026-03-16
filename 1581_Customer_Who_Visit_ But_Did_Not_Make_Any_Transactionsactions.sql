@@ -1,6 +1,6 @@
 Question:
 
-Table: `Visits`
+Table: Visits
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
@@ -9,10 +9,8 @@ Table: `Visits`
 +-------------+---------+
 visit_id is the column with unique values for this table.
 This table contains information about the customers who visited the mall.
- 
 
 Table: Transactions
-
 +----------------+---------+
 | Column Name    | Type    |
 +----------------+---------+
