@@ -32,7 +32,7 @@ Each script is designed to solve a specific business requirement.
 
 | 1068 | [Product Sales Analysis I](1068_Product_Sales_Analysis_I.sql) | basic `GROUP BY` &  `LEFT JOIN` |
 
-| 1581 | [Customer Who Vist But Did Not Pay](1581_Customer_Who_Visit_But_Did_Not_Make_Any_Transactionsactions.sql)
+| 1581 | [Customer Who Vist But Did Not Pay](1581_Customer_Who_Visit_But_Did_Not_Make_Any_Transactionsactions.sql) | Basic `COUNT`, `JOIN` & ` GROUP BY` |
 
 About Me 
 
