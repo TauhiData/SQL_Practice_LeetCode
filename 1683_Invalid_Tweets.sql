@@ -1,4 +1,4 @@
-question: 
+# Question: 
   +----------------+---------+
 | Column Name    | Type    |
 +----------------+---------+
@@ -12,7 +12,7 @@ This table contains all the tweets in a social media app.
 
 Write a solution to find the IDs of the invalid tweets. The tweet is invalid if the number of characters used in the content of the tweet is strictly greater than 15.
 
-Answer:
+# Answer:
 SELECT tweet_id
 FROM Tweets
 WHERE CHAR_LENGTH(content) > 15;
