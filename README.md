@@ -28,11 +28,13 @@ Each script is designed to solve a specific business requirement.
 
 | 1683 | [Invalid Tweets](1683_Invalid_Tweets.sql) | Data Validation via `CHAR_LENGTH()` | 
 
-| 1378 | [Replace employee ID](13778_Replace_Employee_Id.sql) | Basic `LEFT JOIN` |
+| 1378 | [Replace Employee ID](13778_Replace_Employee_Id.sql) | Basic `LEFT JOIN` |
 
 | 1068 | [Product Sales Analysis I](1068_Product_Sales_Analysis_I.sql) | basic `GROUP BY` &  `LEFT JOIN` |
 
 | 1581 | [Customer Who Vist But Did Not Pay](1581_Customer_Who_Visit_But_Did_Not_Make_Any_Transactionsactions.sql) | Basic `COUNT`, `JOIN` & ` GROUP BY` |
+
+| 0197 | [Rising Temperature](0197_Rising_Temperature.sql) | Using `JOIN` % `DATE_ADD()` |
 
 About Me 
 
