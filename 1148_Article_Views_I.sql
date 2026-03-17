@@ -1,4 +1,4 @@
-Question:
+# Question:
   +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
@@ -16,7 +16,7 @@ Write a solution to find all the authors that viewed at least one of their own a
 
 Return the result table sorted by id in ascending order.
 
-Answer:
+# Answer:
   SELECT DISTINCT author_id AS 'id' 
 FROM Views 
 WHERE author_id = Viewer_id 
