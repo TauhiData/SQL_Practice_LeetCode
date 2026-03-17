@@ -1,6 +1,6 @@
-Question:
-  Table: Weather
-
+# Question:
+  
+Table: Weather
 +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
@@ -14,7 +14,8 @@ This table contains information about the temperature on a certain day.
  
 Write a solution to find all dates 'id' with higher temperatures compared to its previous dates (yesterday
 
-Answer:
+# Answer:
+
 SELECT W1.id 
 FROM Weather W1
 JOIN Weather W2
