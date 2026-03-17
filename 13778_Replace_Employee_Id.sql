@@ -1,4 +1,4 @@
-Question:
+# Question:
 Table: Employees
 
 +---------------+---------+
@@ -27,7 +27,7 @@ Write a solution to show the unique ID of each user, If a user does not have a u
 
 Return the result table in any order.
 
-Answer:
+# Answer:
 SELECT EmployeeUNI.unique_id,
        Employees.name
 FROM Employees 
