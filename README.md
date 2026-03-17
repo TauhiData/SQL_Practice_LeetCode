@@ -34,7 +34,7 @@ Each script is designed to solve a specific business requirement.
 
 | 1581 | [Customer Who Vist But Did Not Pay](1581_Customer_Who_Visit_But_Did_Not_Make_Any_Transactionsactions.sql) | Basic `COUNT`, `JOIN` & ` GROUP BY` |
 
-| 0197 | [Rising Temperature](0197_Rising_Temperature.sql) | Using `JOIN` % `DATE_ADD( INTERVAL )` |
+| 0197 | [Rising Temperature](0197_Rising_Temperature.sql) | Using `JOIN` % `DATE_ADD(    INTERVAL)` |
 
 About Me 
 
