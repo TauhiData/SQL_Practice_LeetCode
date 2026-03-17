@@ -1,4 +1,4 @@
-Question:
+# Question:
  Table: Sales 
 
 +-------------+-------+
@@ -32,7 +32,7 @@ Write a solution to report the product_name, year, and price for each sale_id in
 
 Return the resulting table in any order.
 
-Answer:
+# Answer:
 select p.product_name, s.year, s.price 
 from Sales s
 left join Product p
