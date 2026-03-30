@@ -37,4 +37,4 @@ Each script is designed to solve a specific business requirement.
 | 0197 | [Rising Temperature](0197_Rising_Temperature.sql) | Using `JOIN` & `DATE_ADD( INTERVAL )` |
 
 About Me  
-I am an aspiring Data Analyst with a background in Economics and Business. I bridge the gap between technical SQL execution and business strategy. My experience in retail environments has built a foundation of record-keeping and attention to detail, which I now apply to database analytics. 
+I am an aspiring Data Analyst with a background studying Economics and Business. I bridge the gap between technical SQL execution and business strategy. My experience in retail environments has built a foundation of record-keeping and attention to detail, which I now apply to database analytics. 
