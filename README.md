@@ -12,11 +12,11 @@ Handling `NULLs`: Writing robust queries that account for missing data using IS 
 
 Output Optimization: Using `AS (Alias)` to ensure report headers are professional and readable for non-technical stakeholders.
 
-Repository Structure 
+# Repository Structure 
 
 Each script is designed to solve a specific business requirement. 
 
-# | Problem # | Challenge | Key Concept Applied | 
+## | Problem # | Challenge | Key Concept Applied | 
 
 | :--- | :--- | :--- | 
 
