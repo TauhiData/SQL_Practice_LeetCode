@@ -1,8 +1,8 @@
-** SQL Analytics Portfolio: LeetCode Top 50
+# SQL Analytics Portfolio: LeetCode Top 50
 
 This repository documents my professional development in SQL, focusing on data extraction, validation, and financial reporting logic. I am currently mastering the MySQL dialect to solve complex relational database challenges. 
 
-Core Technical Competencies 
+## Core Technical Competencies 
 
 Data Integrity & Validation: Implementing `CHAR_LENGTH()` and `LENGTH()` functions to enforce data entry rules and validate string inputs. 
 
@@ -16,7 +16,7 @@ Repository Structure
 
 Each script is designed to solve a specific business requirement. 
 
-| Problem # | Challenge | Key Concept Applied | 
+# | Problem # | Challenge | Key Concept Applied | 
 
 | :--- | :--- | :--- | 
 
@@ -36,5 +36,5 @@ Each script is designed to solve a specific business requirement.
 
 | 0197 | [Rising Temperature](0197_Rising_Temperature.sql) | Using `JOIN` & `DATE_ADD( INTERVAL )` |
 
-** About Me  
+# About Me  
 I aspire to undrestand data and how it works because i find creating, manipulating and cleaning data to be an enjoyable challenge. With a background studying Economics and Business. I aim to bridge the gap between understanding data execution and business strategy as it affects how companies and  goverments operate. My experience in in diffrent environments has built a foundation of record-keeping and attention to detail, which I now apply to database analytics to futher my ability to understand how evrything works. 
