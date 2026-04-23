@@ -1,4 +1,4 @@
-# SQL Analytics Portfolio: LeetCode Top 50
+# SQL Analytics Portfolio: ## LeetCode Top 50
 
 This repository documents my professional development in SQL, focusing on data extraction, validation, and financial reporting logic. I am currently mastering the MySQL dialect to solve complex relational database challenges. 
 
