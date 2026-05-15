@@ -16,7 +16,7 @@ Output Optimization: Using `AS (Alias)` to ensure report headers are professiona
 
 Each script is designed to solve a specific business requirement. 
 
-## | Problem # | Challenge | Key Concept Applied | 
+## | Problem | Challenge | Key Concept Applied | 
 
 | :--- | :--- | :--- | 
 
